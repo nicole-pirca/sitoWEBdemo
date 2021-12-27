@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NICOLE\\Documents\\WEB APPS\\readmi.txt\\DemoNicoSite\\DemoNicoSite.csproj",
+      "projectUniqueName": "C:\\Users\\NICOLE\\Documents\\WEB APPS\\readmi.txt\\sitoWEBdemo\\DemoNicoSite\\DemoNicoSite.csproj",
       "projectName": "DemoNicoSite",
-      "projectPath": "C:\\Users\\NICOLE\\Documents\\WEB APPS\\readmi.txt\\DemoNicoSite\\DemoNicoSite.csproj",
+      "projectPath": "C:\\Users\\NICOLE\\Documents\\WEB APPS\\readmi.txt\\sitoWEBdemo\\DemoNicoSite\\DemoNicoSite.csproj",
       "packagesPath": "C:\\Users\\NICOLE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NICOLE\\Documents\\WEB APPS\\readmi.txt\\DemoNicoSite\\obj\\",
+      "outputPath": "C:\\Users\\NICOLE\\Documents\\WEB APPS\\readmi.txt\\sitoWEBdemo\\DemoNicoSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NICOLE\\AppData\\Roaming\\NuGet\\NuGet.Config"
